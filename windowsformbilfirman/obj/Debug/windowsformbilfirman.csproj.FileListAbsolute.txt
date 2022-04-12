@@ -1,0 +1,15 @@
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\bin\Debug\windowsformbilfirman.exe.config
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\bin\Debug\windowsformbilfirman.exe
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\bin\Debug\windowsformbilfirman.pdb
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.csproj.AssemblyReference.cache
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.Properties.Resources.resources
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.csproj.GenerateResource.cache
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.exe
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.pdb
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.register.resources
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.Form1.resources
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\obj\Debug\windowsformbilfirman.personalform.resources
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\bin\Debug\Database5.mdf
+C:\Users\Kevin Swärdh\source\repos\windowsformbilfirman\windowsformbilfirman\bin\Debug\Database5_log.ldf
